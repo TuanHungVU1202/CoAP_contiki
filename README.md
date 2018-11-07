@@ -1,4 +1,5 @@
 # wireless-project
+Project for class, topic simulate CoAP and modify some resource.
 # Instruction
 1. Download Contiki
 2. Replace "er-rest-example" directory in "contiki" directory by the "er-rest-example" in "src" dir
